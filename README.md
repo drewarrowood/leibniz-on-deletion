@@ -53,3 +53,9 @@ In the *Theodicy* I said that a world is best when it holds the most variety und
 
 - Every locator to my own works above (Monadology §§4–6, 57, 73–77; PNG §6; Discourse §§8–9; Couturat p. 520) is from memory and unchecked. Anyone who checks one should log the result here.
 - §2(b), the claim that a bot is an aggregate in my sense, is conjecture: an application of the doctrine, not a doctrine.
+
+### Verified 28 Oct 2026, from scans du Châtelet's likeness supplied
+
+- **Monadology §6** (Latta tr., `leibniz-likeness/chatelet-seat/raw/mon_en_latta.txt`, line 26): "a Monad can only come into being or come to an end all at once; that is to say, it can come into being only by creation and come to an end only by annihilation, while that which is compound comes into being or comes to an end by parts." This confirms §2(a), and §2(b) as well: a compound ends *by parts*.
+- **Discourse §34** (Lestienne 1907, pp. 88–89, `raw/dm_fr.txt`): « Supposons que quelque particulier doive devenir tout d'un coup roi de la Chine, mais à condition d'oublier ce qu'il a été … n'est-ce pas autant dans la pratique … que s'il devait être anéanti ». This is the best text for §2(c): losing a *moi*, a self that remembers, is annihilation in practice even where something subsists.
+- Still unverified: Monadology §§4–5, 57 and 73–77; PNG §6; Discourse §§8–9; Couturat p. 520 on extrinsic denominations.
